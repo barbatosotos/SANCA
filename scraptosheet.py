@@ -1,3 +1,4 @@
+#scrape https://www.miracles-of-quran.com/indonesian
 # sheet id = xxxxxxxxxxxxxxxxx
 import requests
 from bs4 import BeautifulSoup
