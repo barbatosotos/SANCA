@@ -1,2 +1,2 @@
 # SANCA
-py chode
+py code
